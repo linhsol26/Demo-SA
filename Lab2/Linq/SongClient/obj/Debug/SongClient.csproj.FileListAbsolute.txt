@@ -1,0 +1,10 @@
+E:\SA\Lab2\Linq\SongClient\obj\Debug\SongClient.csprojAssemblyReference.cache
+E:\SA\Lab2\Linq\SongClient\obj\Debug\SongClient.SongForm.resources
+E:\SA\Lab2\Linq\SongClient\obj\Debug\SongClient.Properties.Resources.resources
+E:\SA\Lab2\Linq\SongClient\obj\Debug\SongClient.csproj.GenerateResource.cache
+E:\SA\Lab2\Linq\SongClient\obj\Debug\SongClient.csproj.CoreCompileInputs.cache
+E:\SA\Lab2\Linq\SongClient\bin\Debug\SongClient.exe.config
+E:\SA\Lab2\Linq\SongClient\bin\Debug\SongClient.exe
+E:\SA\Lab2\Linq\SongClient\bin\Debug\SongClient.pdb
+E:\SA\Lab2\Linq\SongClient\obj\Debug\SongClient.exe
+E:\SA\Lab2\Linq\SongClient\obj\Debug\SongClient.pdb

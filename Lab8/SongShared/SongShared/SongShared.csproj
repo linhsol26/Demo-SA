@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="Song.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+    </None>
+  </ItemGroup>
+
+</Project>
